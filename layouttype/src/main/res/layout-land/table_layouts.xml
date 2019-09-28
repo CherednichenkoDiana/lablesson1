@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/TL1"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <EditText
+            android:id="@+id/editText3"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="30dp"
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="new life for mirea activity" />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="20dp"
+        android:layout_height="match_parent" >
+
+        <Button
+            android:id="@+id/button9"
+            android:layout_width="300dp"
+            android:layout_height="80dp"
+            android:foreground="@color/Blue40"
+            android:textColor="@color/Black"
+            android:text="мало" />
+
+        <Button
+            android:id="@+id/button11"
+            android:layout_width="300dp"
+            android:layout_height="80dp"
+            android:foreground="@color/Blue40"
+            android:textColor="@color/Black"
+            android:text="мозгов" />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="20dp"
+        android:layout_height="match_parent" >
+
+        <Button
+            android:id="@+id/button12"
+              android:layout_width="300dp"
+            android:layout_height="80dp"
+            android:foreground="@color/Blue40"
+            android:textColor="@color/Black"
+            android:text="мало" />
+        <Button
+            android:id="@+id/button13"
+            android:layout_width="300dp"
+            android:layout_height="80dp"
+            android:foreground="@color/Blue40"
+            android:textColor="@color/Black"
+            android:text="мозгов"
+             />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="20dp"
+        android:layout_height="match_parent" >
+
+        <Button
+            android:id="@+id/button14"
+            android:layout_width="300dp"
+            android:layout_height="80dp"
+            android:foreground="@color/Blue40"
+            android:textColor="@color/Black"
+            android:text="мало" />
+
+        <Button
+            android:id="@+id/button15"
+            android:layout_width="300dp"
+            android:layout_height="80dp"
+            android:foreground="@color/Blue40"
+            android:textColor="@color/Black"
+            android:text="мозгов"  />
+    </TableRow>
+</TableLayout>

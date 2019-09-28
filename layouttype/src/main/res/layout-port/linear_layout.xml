@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/LL1"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/LL2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/But1"
+            android:layout_width="129dp"
+            android:layout_height="wrap_content"
+            android:text="@string/Butt1" />
+
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="147dp"
+            android:layout_height="wrap_content"
+            android:text="@string/But2" />
+
+        <Button
+            android:id="@+id/button3"
+            android:layout_width="138dp"
+            android:layout_height="wrap_content"
+            android:text="@string/But3" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/LL3"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/button6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/But5" />
+
+        <Button
+            android:id="@+id/button4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/But4" />
+
+        <Button
+            android:id="@+id/but5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/But6" />
+    </LinearLayout>
+
+</LinearLayout>

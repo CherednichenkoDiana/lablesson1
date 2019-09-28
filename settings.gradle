@@ -1,0 +1,2 @@
+include ':layouttype', ':clickbutton'
+rootProject.name='lablesson1'

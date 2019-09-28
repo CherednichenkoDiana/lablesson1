@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">lablesson1</string>
+    <string name="Butt1">Button</string>
+    <string name="But2">Button</string>
+    <string name="But3">Button</string>
+    <string name="But4">Button</string>
+    <string name="But5">Button</string>
+    <string name="But6">Button</string>
+    <string name="button1">Button</string>
+    <string name="button2">Button</string>
+    <string name="button3">Button</string>
+    <string name="button4">Button</string>
+    <string name="button5">Button</string>
+    <string name="button6">Button</string>
+    <string name="todo">TODO</string>
+</resources>
